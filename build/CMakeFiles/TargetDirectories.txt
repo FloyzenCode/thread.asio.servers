@@ -1,3 +1,0 @@
-/Users/floyz/VSCode/cpp/boost-test/build/CMakeFiles/test.dir
-/Users/floyz/VSCode/cpp/boost-test/build/CMakeFiles/edit_cache.dir
-/Users/floyz/VSCode/cpp/boost-test/build/CMakeFiles/rebuild_cache.dir
